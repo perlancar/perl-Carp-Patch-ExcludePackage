@@ -1,0 +1,4 @@
+Carp-Patch-ExcludePackage-*
+.build
+*~
+nytprof*
